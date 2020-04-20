@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RU2Clip</string>
+    <string name="started">RU2Clip service is started.</string>
+    <string name="usage">
+        You can now copy to or paste from clipboard  using the
+        following commands in adb shell:\n \n
+        am broadcast -a set -e base64 \'encrypted text\'
+    </string>
+</resources>
